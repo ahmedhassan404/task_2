@@ -39,9 +39,9 @@ Create a `.env` file in the project root and add:
 ```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
+DB_PASSWORD=
 DB_NAME=car_rental
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=
 JWT_EXPIRES_IN=10m
 ```
 
