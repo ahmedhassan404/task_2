@@ -79,16 +79,4 @@ npm start
 3. **Use JWT Token** → Copy the token and add it in `Authorization` header as `Bearer Token`.
 4. **Test Protected Routes**
 
-## Deployment
-For deployment, consider using:
-- **Railway.app** / **Render** for hosting Node.js API.
-- **PlanetScale** / **Amazon RDS** for MySQL database.
-
-## Contributing
-Feel free to fork and improve this project. Submit a pull request if you have a feature to add.
-
-## License
-MIT License. Free to use and modify.
-
-🚀 **Happy Coding!**
 
